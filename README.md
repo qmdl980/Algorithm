@@ -1,1 +1,3 @@
-# Algorithm
+# For Coding Test
+
+### BOJ, PROGRAMMERS
